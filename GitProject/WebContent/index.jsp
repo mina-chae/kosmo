@@ -15,5 +15,6 @@
 	<a href="<c:url value='/Git/GIT.git' />">GIT</a>
 	<hr/>
 	${GIT }	
+	<h2>메뉴추가</h2>
 </body>
 </html>
